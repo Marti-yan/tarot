@@ -1,0 +1,18 @@
+/* .SPrincipal img{
+    margin: auto !important;
+    display: block;
+    padding-top: 35px;
+} */
+
+.SPrincipal span{
+    background-color: #4a0701b4;
+    padding:1px;
+}
+
+.SPrincipal span p{
+    margin: 15px 0 5px 0 ;
+}
+
+.SPrincipal i{
+    text-align: center
+}

@@ -1,0 +1,22 @@
+/* :root {
+  
+} */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Fira Sans", sans-serif;
+  color: #ffdcdc;
+}
+body {
+  /* background-color: #200000; */
+  background-image: url('../public/universe.jpg');
+  background-size: cover ; /* Para cobrir todo o fundo */
+    background-position: center center; /* Para centralizar a imagem */
+    background-attachment: fixed; /* Para fixar a imagem enquanto você rola a página (opcional) */
+
+}
+
+
+

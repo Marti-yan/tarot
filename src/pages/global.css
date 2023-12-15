@@ -1,0 +1,41 @@
+section{
+    margin: 0 15%;
+    text-shadow: #000000 2px 2px 2px;
+    line-height: 1.4em;
+    font-size: 1.3em;
+}
+
+ol{
+    padding-left: 5%
+}
+h4{
+    text-align: center;
+    margin: 7% 0 3% 0;
+    
+}
+
+@media (max-width:1080px) {
+    section{
+        margin: 0 10%;
+    }
+}
+@media (max-width:760px) {
+    section{
+        margin: 0 5%;
+        font-size: 1.1em;
+    }
+}
+span , p{
+    font-size: 1.3rem;
+}
+span img{
+    margin: 10px auto !important;
+    display: block;
+    width: 100%;
+}
+p{
+    margin-top: 15px;
+}
+h5{
+    font-size: 1.4rem
+}
