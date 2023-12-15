@@ -33,6 +33,7 @@ function Header() {
                 id="prlx"
                 style={{
                   "background-image": 'url("./cigana_principal.jpg")',
+
                 }}
                 data-swiper-parallax="-23%"
               ></div>
@@ -70,7 +71,7 @@ function Header() {
                 data-swiper-parallax="-23%"
               ></div>
               <div className="title" data-swiper-parallax="-300">
-                Slide 2
+                pegar o resto das img no projeto do clone
               </div>
             </a>
           </SwiperSlide>

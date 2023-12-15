@@ -1,8 +1,10 @@
+import styles from "./banhos.module.css"
+
 const BanhosErvas = () => {
   return (
     <>
       <h1>Banhos e Ervas Especiais</h1>
-      <section>
+      <section className={styles.banhos}>
         <div>
           <h4>ÁGUAS NA UMBANDA</h4>
           <span>
@@ -254,6 +256,7 @@ const BanhosErvas = () => {
         </div>
         <div>
           <h4>RELAÇÃO DE ERVAS, FOLHAS, PLANTAS E SUAS PROPRIEDADES:</h4>
+          <br />
           <span>
             <p>
               <b>ABRE CAMINHO</b>: ou <b>PERIQUITINHO DE OGUM</b>: Novas forças.
@@ -334,7 +337,7 @@ Essa erva colocada debaixo do travesseiro afasta maus sonhos e usado como escald
           <p>
           Afasta maus espíritos e ladrões. Felicidade, cura, proteção, purificação e justiça. Ajuda na recuperação e tratamento de doenças. Atrai a falange dos caboclos. Protege na área profissional. Estimulante para concentração, adivinhação, memória e estudo.
           </p>
-          </span>
+          </span><br />
           <span>
             <b>ALFAZEMA OU LAVANDA: </b>
             <p>Mudança. Aos que agem de maneira impensada ou sentem insegurança para agir despertando o discernimento. Atua no sistema nervoso do corpo, acalmando-o, permitindo diminuir as culpas de atos impensados e ajudando a manifestação da intuição. Para trazer paz e harmonia.</p>
@@ -345,31 +348,32 @@ Essa erva colocada debaixo do travesseiro afasta maus sonhos e usado como escald
           <span>
             <b>ALHO (PALHA):</b>
             <p>Proteção. Erva extremamente protetora. Pode ser pendurado em casa para proteger. Também utilizado para fazer exorcismos.</p>
-          </span>
+          </span><br />
           <span>
             <b>ALPISTE:</b>
             <p>Prosperidade. Banho para atrair clientela.</p>
-          </span>
+          </span><br />
           <span>
             <b>Amendoeira:</b>
             <p>Seus galhos são usados nos locais em que o homem exerce suas atividades lucrativas. (erva de Exu);.</p>
-          </span>
+          </span><br />
           <span>
             <b>Amoreira:</b>
             <p>Planta que armazena fluidos negativos e os solta ao entardecer; é usada pelos sacerdotes no culto a Eguns.</p>
-          </span>
+          </span><br />
           <span>
             <b>ANGÉLICA:</b>
             <p>A raiz dessa erva guardada em um saquinho de tecido azul, funciona como um poderoso talismã protetor.</p>
-          </span>
+          </span><br />
           <span>
             <b>ANGELIM- AMARGOSO- MORCEGUEIRA:</b>
             <p>São aplicadas em banhos fortes de descarrego, com o propósito de destruir os fluidos negativos, realizando um excelente descarrego.Nos rituais, suas folhas e flores são utilizadas nos abô dos filhos de Nanã, e as cascas são utilizadas em banhos fortes com a finalidade de destruir os fluidos negativos que possa haver, realizando um excelente descarrego nos filhos de Exu.</p>
-          </span>
+          </span><br />
           <span>
             <b>ANIS ESTRELADO:</b>
             <p>Aumenta a auto-estima. Ensina o fluir natural dos sentimentos da forma como se originam, sem que as barreiras conceituais ou outras manifestações da personalidade tenham qualquer influência. Usado para proteção.</p>
           </span>
+          <br />
           <span>
             <b>ANTÚRIO:</b>
             <p>Essa flor ajuda a recomeçar projetos paralisados, pois simboliza a ressureição e é também um grande afrodisíaco.</p>

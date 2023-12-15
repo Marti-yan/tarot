@@ -13,17 +13,27 @@ h4{
     margin: 7% 0 3% 0;
     
 }
+h1{
+    text-align: center;
+    text-shadow: #000000 3px 3px 3px;
+    font-size: 3rem;
+}
+
+
 
 @media (max-width:1080px) {
     section{
         margin: 0 10%;
     }
+
 }
+
 @media (max-width:760px) {
     section{
         margin: 0 5%;
         font-size: 1.1em;
     }
+
 }
 span , p{
     font-size: 1.3rem;
@@ -31,10 +41,10 @@ span , p{
 span img{
     margin: 10px auto !important;
     display: block;
-    width: 100%;
+    
 }
 p{
-    margin-top: 15px;
+    margin-top: 10px;
 }
 h5{
     font-size: 1.4rem

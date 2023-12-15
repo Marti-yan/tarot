@@ -45,12 +45,16 @@ header img {
     background-position: center;
   }
 
-  
+  a{
+    text-decoration: none;
+  }
+
 .title{
     color: rgb(140, 127, 255);
     font-size: 60px;
     text-align: center;
     padding-top: 25%;
+   
   }
   
   .swiper{

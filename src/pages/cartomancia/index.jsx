@@ -1,4 +1,4 @@
-import styles from "./../global.css";
+
 import style from '../cartomancia/cartomancia.module.css'
 
 const Cartomancia = () => {
@@ -58,7 +58,7 @@ const Cartomancia = () => {
         <span>
           <img src="./pages/cartomancia/05.png" alt="" /> <br />
           <b>Taças:</b>
-          <p>Corresponde ao Naipe de Copas no baralho comum. Indica amor, generosidade, sensualidade. E o naipe da bondade e da paixão são pessoas de temperamento tranquilo. Associada ao Outono.</p>
+          <p>Corresponde ao Naipe de Paus do baralho comum. Significa        energia, novos empreendimentos, viagens, oportunidades no amor e no trabalho. Este muito relacionado com a vida intelectual, de criação artística. E um Naipe energético, sendo que esta força poderá ser construtiva, mas também poderá ser destrutiva, conforme a orientação que lhe for dada. Ela sugere mudanças, mas sempre com sentidos opostos para melhor ou para pior, sem meios termos. Representa pessoas de caráter energéticas e empreendedor. Esta associada ao Verão.</p>
         </span>
         
       </section>
