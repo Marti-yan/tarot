@@ -77,9 +77,7 @@ const Nav = () => {
         <li>
           <a href="/">Inicio</a>
         </li>
-        <li>
-          <a href="#contatos">Contatos</a>
-        </li>
+
         <li>
           <a
             href=" https://wa.me//5522992064929?text=Gostaria%20de%20mais%20informações%20sobre%20as%20consultas!"

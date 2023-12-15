@@ -5,8 +5,8 @@ import Header from "../../components/Header";
 const MesaRadionica = () => {
   return (
     <>
-
-      <div> mesa radionica </div>
+      <h1>Mesa Radionica</h1>
+      <section></section>
     </>
   )
 }

@@ -4,16 +4,16 @@ import styles from "./../global.css";
 function Home() {
   return (
     <>
+    <h1>Taro na Net</h1>
       <section className={style.textSection}>
-        {" "}
-        {/*INTRO*/}
-        <i>
+
+       
           "Ao fazer seu jogo, não desejo determinar o seu futuro, E sim ajudar
           em sua melhor escolha para seu dia de amanhã. Desejo que seu caminho
           seja brando aos teus pés, Que o sol brilhe cálido sobre tua face, e
           que as chuvas. Caiam severas em teus campos, E que DEUS te guarde nas
           palmas de suas mãos! "
-        </i>
+       
       </section>
 
       <section>
@@ -145,23 +145,6 @@ function Home() {
         </div>
       </section>
 
-      <section> {/*INFOS*/}</section>
-      <br />
-      <hr />
-      <br />
-      <section id="contatos">
-        <span
-          style={{
-            "text-shadow": "2px 2px 0 #bcbcbc, 4px 4px 0 #9c9c9c;",
-            color: "#000",
-          }}
-        >
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Culpa, id.
-          Inventore quo ipsam excepturi facilis doloribus provident! Neque
-          dignissimos ratione provident in, necessitatibus molestiae ad vero qui
-          quia nihil distinctio?
-        </span>
-      </section>
     </>
   );
 }
