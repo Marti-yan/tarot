@@ -136,7 +136,7 @@ const Baralho = () => {
             </p>
             <br />
           </span>
-            <br />
+          <br />
 
           <span>
             <p>
@@ -172,59 +172,323 @@ const Baralho = () => {
           </span>
           <br />
           <span>
-            <p><b>6 – AS NUVENS – REI DE PAUS(IANSÃ)</b></p>
-            <p><b>SIMBOLOGIA </b>- É simbolizada por um céu cinzento e assustador. Significa a instabilidade emocional, sensação de incapacidade em resolver os problemas. Também é sinal de mudanças lentas, tristeza.</p>
-            <p><b>MENSAGEM </b>– As mudanças de sua vida deverão ser vagarosas, de acordo com as necessidades. Os momentos de tristeza serão passageiros.Uma nuvem escura significa o que está nebuloso: dúvidas, incertezas, ansiedades, ilusões, fantasias, confusão de sentimentos, preocupações, instabilidade mental. É o que não está claro.</p>
-            <p>Indica uma crise, porém passageira, pois a recuperação virá rápida, assim que os ventos da confusão passarem. A criança começa a frequentar a escola. Conhece outras pessoas, outra realidade. Tem de conciliar rapidamente o velho com o novo. Começam as primeiras inseguranças e medos diante do novo.</p><br />
-            <p>São os ventos, o dinamismo, o movimento incessante, a grande capacidade de fluir e não se aprisionar em nada. Confusão de sentimentos; instabilidade; aborrecimentos; tumultos.
-Na forma positiva significa um grande poder para lutar e vencer. Pessoa altiva, independente, que persegue seus objetivos com garra. Exerce grande atratividade no sexo oposto.</p>
-            <p>Negativa indica arrogância. Pessoa sob influência negativa, com prejuízo para a saúde e perda de interesse pela vida. A pessoa não consegue se ligar em nada, nem a ninguém. Tudo é motivo para brigas e discórdias, principalmente com quem mais gosta.</p>
-          </span>
-          <br />
-          <span>
-            <p><b>7 – A SERPENTE – DAMA DE PAUS (OXUMARÊ)</b></p>
-            <p><b>SIMBOLOGIA </b> - Nesta carta, aparece a figura de uma serpente venenosa. Esta lâmina que tem muita carga negativa, significa que traições e forças externas ocultas estão agindo em seu campo astral.</p>
-            <p><b>MENSAGEM</b> - Se este arcano estiver perto da carta que representa você, é sinal que poderá passar por alguns riscos como traições.</p>
-            <p>A cobra é sempre um sinal de perigo, pelo seu veneno, pois ataca com o bote. Significa a traição, brigas, intrigas, discórdias, maledicência e desarmonias.</p>
-            <p>A cobra também representa a sexualidade (kundalini) do consulente e a maneira como ele a expressa.</p>
-            <p>Outro aspecto é a auto-sabotagem (medo e insegurança que paralisam) e a necessidade de defesa.Começa a pré-adolescência e o desejo de auto-afirmação, que leva a competições acirradas.</p>
+            <p>
+              <b>6 – AS NUVENS – REI DE PAUS(IANSÃ)</b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA </b>- É simbolizada por um céu cinzento e
+              assustador. Significa a instabilidade emocional, sensação de
+              incapacidade em resolver os problemas. Também é sinal de mudanças
+              lentas, tristeza.
+            </p>
+            <p>
+              <b>MENSAGEM </b>– As mudanças de sua vida deverão ser vagarosas,
+              de acordo com as necessidades. Os momentos de tristeza serão
+              passageiros.Uma nuvem escura significa o que está nebuloso:
+              dúvidas, incertezas, ansiedades, ilusões, fantasias, confusão de
+              sentimentos, preocupações, instabilidade mental. É o que não está
+              claro.
+            </p>
+            <p>
+              Indica uma crise, porém passageira, pois a recuperação virá
+              rápida, assim que os ventos da confusão passarem. A criança começa
+              a frequentar a escola. Conhece outras pessoas, outra realidade.
+              Tem de conciliar rapidamente o velho com o novo. Começam as
+              primeiras inseguranças e medos diante do novo.
+            </p>
             <br />
-            <p>Significa discórdia, desarmonia, intriga e maledicência. A ilusão das falsas aparências. Traição; inveja.
-Se positiva, representa o arco – íris com sua beleza ilusória e de promessas de brilho e riquezas.
-Negativa significa o rastejar da cobra, o deslizar sorrateiro e intencionalmente maléfico, sempre pronta para dar seu bote mortal.</p>
+            <p>
+              São os ventos, o dinamismo, o movimento incessante, a grande
+              capacidade de fluir e não se aprisionar em nada. Confusão de
+              sentimentos; instabilidade; aborrecimentos; tumultos. Na forma
+              positiva significa um grande poder para lutar e vencer. Pessoa
+              altiva, independente, que persegue seus objetivos com garra.
+              Exerce grande atratividade no sexo oposto.
+            </p>
+            <p>
+              Negativa indica arrogância. Pessoa sob influência negativa, com
+              prejuízo para a saúde e perda de interesse pela vida. A pessoa não
+              consegue se ligar em nada, nem a ninguém. Tudo é motivo para
+              brigas e discórdias, principalmente com quem mais gosta.
+            </p>
           </span>
           <br />
           <span>
-            <p><b></b></p>
-            <p><b></b></p>
-            <p><b></b></p>
-            <p></p>
-            <p></p>
+            <p>
+              <b>7 – A SERPENTE – DAMA DE PAUS (OXUMARÊ)</b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA </b> - Nesta carta, aparece a figura de uma serpente
+              venenosa. Esta lâmina que tem muita carga negativa, significa que
+              traições e forças externas ocultas estão agindo em seu campo
+              astral.
+            </p>
+            <p>
+              <b>MENSAGEM</b> - Se este arcano estiver perto da carta que
+              representa você, é sinal que poderá passar por alguns riscos como
+              traições.
+            </p>
+            <p>
+              A cobra é sempre um sinal de perigo, pelo seu veneno, pois ataca
+              com o bote. Significa a traição, brigas, intrigas, discórdias,
+              maledicência e desarmonias.
+            </p>
+            <p>
+              A cobra também representa a sexualidade (kundalini) do consulente
+              e a maneira como ele a expressa.
+            </p>
+            <p>
+              Outro aspecto é a auto-sabotagem (medo e insegurança que
+              paralisam) e a necessidade de defesa.Começa a pré-adolescência e o
+              desejo de auto-afirmação, que leva a competições acirradas.
+            </p>
+            <br />
+            <p>
+              Significa discórdia, desarmonia, intriga e maledicência. A ilusão
+              das falsas aparências. Traição; inveja. Se positiva, representa o
+              arco – íris com sua beleza ilusória e de promessas de brilho e
+              riquezas. Negativa significa o rastejar da cobra, o deslizar
+              sorrateiro e intencionalmente maléfico, sempre pronta para dar seu
+              bote mortal.
+            </p>
           </span>
           <br />
           <span>
-            <p><b></b></p>
-            <p><b></b></p>
-            <p><b></b></p>
-            <p></p>
-            <p></p>
+            <p>
+              <b>8 – O CAIXÃO – NOVE DE OUROS (EGUNS)</b>
+            </p>
+            <p>
+              <b> SIMBOLOGIA -</b>É simbolizada pela figura de um caixão de
+              defunto que representa momentos de ruptura. Por outro lado,
+              refere-se às forças ocultas do inconsciente que podem levar à
+              destruição, mas também a evolução.
+            </p>
+
+            <p>
+              <b> MENSAGEM – </b>Se estiver afastado da figura que representa
+              você, é sinal de mudanças benéficas. O contrário, significa
+              acontecimentos ruins.
+            </p>
+            <p>
+              A vida é feita de ciclos que se iniciam e se encerram, portanto
+              esta carta significa a renovação, o renascimento (não a morte
+              física) após um novo aprendizado, logo as transformações internas,
+              profundas e necessárias que o consulente precisa se deparar. Com
+              isso traz nova etapa que será cumprida com o aprendizado já
+              conquistado.
+            </p>
+            <p>
+              O caixão representa o mundo interior do consulente, são as
+              mudanças de valores, a quebra de padrão de comportamento, é o
+              aprendizado interno.
+            </p>
+            <p>
+              Significa a destruição; a perda definitiva; perdas materiais;
+              doenças graves; a morte.
+            </p>
+            <p>
+              Na forma positiva demonstra que a perda está próxima ou já
+              configurada. Existe um claro objetivo de interromper um
+              desenvolvimento
+            </p>
           </span>
           <br />
           <span>
-            <p><b></b></p>
-            <p><b></b></p>
-            <p><b></b></p>
-            <p></p>
-            <p></p>
+            <p>
+              <b>9 – AS FLORES – DAMA DE ESPADAS (NANÃ)</b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA – </b>As flores simbolizam a felicidade, alegria e
+              beleza, a fraternidade e a união das pessoas. Também indica a
+              realização de todas as possibilidades e sonhos.
+            </p>
+            <p>
+              <b>MENSAGEM -</b> Esta carta representa a felicidade em todos os
+              aspectos da vida. É um arcano ligado à alegria, realização em
+              todos os setores da vida. As flores sempre alegram uma pessoa e
+              enfeitam um ambiente. Esta carta simboliza as alegrias, o
+              contentamento, a satisfação e o entendimento entre as pessoas.
+              Mostra as coisas boas no lado afetivo e indica namoro também.
+            </p>
+            <p>
+              Simbolicamente, o ramalhete de flores é a imagem da perfeição
+              espiritual, logo representa a Cigana Espiritual do(a)
+              consulente(a).Com a juventude, um dos períodos mais felizes: o
+              jovem descobre como pode ser forte em grupo (fazendo parte
+              dele).Significa alegria, satisfação íntima; felicidade.
+              Entendimento entre as pessoas. Generosidade. Fraternidade. Sorte;
+              contentamento.
+            </p>
           </span>
           <br />
           <span>
-            <p><b></b></p>
-            <p><b></b></p>
-            <p><b></b></p>
-            <p></p>
+            <p>
+              <b>10 – A FOICE – VALETE DE OUROS</b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA –</b> Uma foice ceifando o trigo representa a
+              destruição do tempo, a morte. É a perda dolorosa no momento certo,
+              o perigo, a transformação e o desprendimento.
+            </p>
+            <p>
+              <b>MENSAGEM –</b> Esta lâmina traz perigo de ruptura e separação.
+              Mas se esta carta estiver rodeada de outras positivas, indica a
+              possibilidade, uma nova chance que surge.
+            </p>
+            <p>
+              A função de uma foice é cortar e separar, a saber: <br />
+              1) cortar: esta carta representa o rompimento, a interrupção, a
+              separação, o término e o corte. <br />
+              2) Separar: esta carta também representa as decisões a serem
+              tomadas, logo as escolhas, pois separa o joio do trigo.
+            </p>
+            <p>
+              Também signfica a distância que precisamos manter numa determinada
+              questão e a necessidade de se fazer ajustes na relação ou na vida,
+              pois a foice também apara.Começa o desejo de independência com
+              relação aos pais, sendo ainda dependente.
+            </p>
+          </span>
+          <br />
+          <span>
+            <p>
+              <b>11 – O AÇOITE – VALETE DE PAUS</b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA –</b> Tem o símbolo de um grande chicote que
+              representa a força, o poder mental. Também pode indicar o poder
+              judiciário e a chance de um acordo em família.
+            </p>
+            <p>
+              <b>MENSAGEM –</b> De acordo com a situação, este arcano representa
+              o uso abusivo da força, quando seria melhor uma conversa. Indica o
+              emprego necessário da sabedoria e da intuição.
+            </p>
+            <p>
+              Também significa a necessidade de se dedicar a algo, com rédeas
+              curtas, ou seja, se esforçar para atingir os objetivos, correr
+              atrás do que se quer, ter empenho para obter êxito.
+            </p>
+            <p>
+              A magia e o poder pessoal (poder de persuasão) também são
+              indicados por esta carta e a conseqüente intenção ou força da
+              mente que é utilizada para se concretizar os objetivos.Começam os
+              primeiros conflitos interiores. Necessidade de aceitação e
+              afirmação.
+            </p>
+          </span>
+          <br />
+          <span>
+            <p>
+              <b>12 – OS PÁSSAROS – SETE DE OUROS</b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA </b>- A imagem de um casal de pássaros juntinhos num
+              galho de árvore representa o amor. Indica uma vida sentimental
+              feliz. Este arcano quando aparece perto da carta A SERPENTE tem
+              toda sua negatividade neutralizada.
+            </p>
+            <p>
+              <b>MENSAGEM –</b> Indica respeito pelo par. Também é um aviso para
+              não sufocar o companheiro de ciúme.Esta carta é a única onde
+              consta duas figuras: dois pássaros ou duas corujas ou dois pombos.
+              Portanto indica namoro, romantismo, carinho.
+            </p>
+            <p>
+              É uma carta espiritual, pois nos remete a fé e a paciência, ou
+              seja, a necessidade de deixar as coisas acontecerem, logo a
+              necessidade de esperar, com confiança em si mesmo e na vida. Outro
+              significado é o abrir as asas para alçar vôo, é a expansão, é o
+              pensar alto.Tudo é sonho. Planos para o futuro. É o desejo de
+              encontrar o parceiro para a vida toda.
+            </p>
+          </span>
+          <br />
+          <span>
+            <p>
+              <b>13 – A CRIANÇA – VALETE DE ESPADAS</b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA -</b> É a figura de uma criança inocente que
+              representa a alegria, a própria inocência, a naturalidade e a
+              espontaneidade ainda presente no coração das pessoas.
+            </p>
+            <p>
+              <b>MENSAGEM – </b>Esta carta traz um conselho: você deve ficar
+              bastante atenta com atitudes impensadas, repentinas e infantis.
+              Estas ações podem magoá-lo(a) profundamente.
+            </p>
+            <p>
+              Para uma criança tudo é novo e os acontecimentos representam
+              novidades e jovialidade. <br />
+              Esta carta significa a infância e os filhos. Também simboliza a
+              criança interior e a postura de se estar aberto (receptivo)
+              perante a vida. Representa a necessidade de flexibilizar numa
+              determinada situação, pois o radicalismo impede o fluxo natural da
+              energia e tende a estagnação. percepção de que a infância ficou
+              para trás e de que esse momento pode ser vivido de um novo modo,
+              com entusiasmo e alegria. Tudo vai dar certo.
+            </p>
+          </span>
+          <br />
+          <span>
+            <p>
+              <b>14 – A RAPOSA – NOVE DE PAUS</b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA –</b> Uma raposa esperando sua caça é o que traz
+              este arcano. Com esta figura, ele simboliza as armadilhas da vida,
+              as traições, a deslealdade e a salvação pela astúcia.
+            </p>
+            <p>
+              <b>MENSAGEM –</b> Se aparecer perto da que representa você, é
+              porque é muito invejado(a). Já se aparecer longe, é sinal de que
+              está se prejudicando com sua inveja e cobiça.
+            </p>
+            <p>
+              Também representa a feminilidade, o charme e a sedução de uma
+              mulher.A raposa ouve muito bem, é silenciosa e é observadora, usa
+              a cautela e a estratégia como precaução. A raposa é inteligente e
+              aproveita as oportunidades que a vida oferece, por isso ela presta
+              atenção em tudo, antes de agir.
+            </p>
+            <p>
+              Outro significado é “a outra ou o outro” numa infidelidade
+              conjugal.omeçam os primeiros erros. A vida em sociedade exige
+              maior “jogo de cintura”. É necessário ser esperto para sobreviver.
+            </p>
+          </span>
+          <br />
+          <span>
+            <p>
+              <b>15 – O URSO – DEZ DE PAUS</b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA –</b> Nesta carta, aparece a figura ameaçadora de um
+              grande urso. Ela representa a falsidade dos amigos. Também mostra
+              a inveja de pessoas próximas e queridas.
+            </p>
+            <p>
+              <b>MENSAGEM –</b> Você deve ter cuidado com falsos amigos, do tipo
+              “amigo-urso”. Sentimentos ruins como inveja, a cobiça podem
+              interferir nas energias do seu campo astral.
+            </p>
+            <p>Esta é uma carta polêmica, pois alguns livros dizem que é a pior carta do baralho. Porém, ela tem vários significados.Carta de alerta: Cuidado com algum rival e cuidado para não entrar em depressão. O pleno desabrochar da sexualidade. É arrebatado pela paixão.</p>
+          </span>
+          <br />
+          <span>
+            <p>
+              <b></b>
+            </p>
+            <p>
+              <b></b>
+            </p>
+            <p>
+              <b></b>
+            </p>
             <p></p>
           </span>
+          <br />
         </div>
       </section>
     </>
