@@ -39,7 +39,7 @@ const Nav = () => {
           {isOpen && (
             <ul>
               <li>
-                <a href="/Magia-dos-ciganos">A magia e a Historia dos Ciganos</a>
+                <a href="/Magia-dos-ciganos">As magias e a Historia dos Ciganos</a>
               </li>
 
               <li>
@@ -60,10 +60,6 @@ const Nav = () => {
 
               <li>
                 <a href="/Numerologia">Numerologia</a>
-              </li>
-
-              <li>
-                <a href="/Salmos">Salmos</a>
               </li>
 
               <li>

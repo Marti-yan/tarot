@@ -191,20 +191,39 @@ const TarotAnjos = () => {
               Verdade, tranquilidade e compreensão, relacionado ao trabalho e
               prosperidade, negócios.
             </p>
+            <br />
             <h5>VELA AMARELA:</h5>
             <p>
               Vida, alegria, força, entusiasmo, vontade de viver. simboliza
               estudos, deve ser usada para pedir sobre estas situações;
             </p>
+            <br />
             <h5>VELA ROSA:</h5>
             <p>
               Beleza, amor, deve ser usada para pedir sobre assuntos amorosos,
               para fortalecer laços afetivos e filiais.
             </p>
+            <br />
             <h5>VELA VERDE:</h5>
             <p>Calma, tranquilidade, saúde, equilíbrio.</p>
             <img src="./pages/tarotdosanjos/06.jpg" alt="" />
             <h5>VELA VIOLETA OU LILÁS:</h5>
+            <p>Ligada a espiritualidade.</p>
+            <br />
+            <h5>VELA VERMELHA:</h5>
+            <p>
+              Usada para fazer pedido relacionado á emergências e que necessitam
+              ser solucionados com urgência
+            </p>
+          </span>
+            <br />
+          <span>
+            <p>
+              ESTE RITUAL DEVE SER REPETIDO DE 72 DIAS EM 72 DIAS OS ANJOS
+              SEMPRE ATENDEM É UM DOS RITUAIS MAIS PODEROSOS DE ANJOS QUE
+              EXISTEM…
+            </p>
+            <img src="./pages/tarotdosanjos/07.jpg" alt="" />
           </span>
         </div>
       </section>

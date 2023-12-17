@@ -35,6 +35,9 @@ h1{
     }
 
 }
+span{
+    text-shadow: #000000 2px 2px 2px;
+}
 span , p{
     font-size: 1.3rem;
 }

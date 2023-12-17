@@ -1,0 +1,28 @@
+.divlink{
+    background-color: #21187fc2;
+    display: flex;
+    justify-content: space-around;
+    padding: 3% 1%;
+    font-size: 1.2em;
+    text-decoration: underline;
+    text-shadow: #000000 2px 2px 1px;
+    flex-wrap: wrap;
+}
+
+.divlink a{
+    padding-top: 1.5%;
+}
+
+.divlink a:hover{
+    color: #C5B35C;
+    text-shadow: #bb0000 1px 1px 1px;
+}
+
+.intro h1{
+    line-height: 3.5rem;
+}
+
+.intro img{
+ display: block;
+ margin: 0 auto;
+}

@@ -6,3 +6,11 @@
     font-style: italic;
     font-size: 1.4rem;
 }
+
+@media (max-width: 768px){
+    .textSection{
+
+        margin: 0 10%;
+        line-height: 2rem;
+    }
+}

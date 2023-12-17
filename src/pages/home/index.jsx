@@ -15,7 +15,7 @@ function Home() {
           palmas de suas mãos! "
        
       </section>
-
+<br />
       <section>
         {" "}
         {/*options*/}
@@ -30,8 +30,12 @@ function Home() {
           dos Anjos Taro do Amor Cartomancia Taro dos Negócios Numerologia
           através do Taro Mesa Radiônica Quântica e Radiestesia
         </span>
+        <br /><br />
         <div>
+          <h5>
           Experiências:
+          </h5>
+            
           <ol>
             <li>
               <h4>Baralho cigano:</h4>

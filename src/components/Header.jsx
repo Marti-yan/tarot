@@ -1,5 +1,4 @@
-
-import "./Header.css"
+import "./Header.css";
 import { Swiper, SwiperSlide } from "swiper/react";
 import {} from "swiper/modules";
 
@@ -26,14 +25,13 @@ function Header() {
           // modules={[Autoplay, Pagination, Navigation]}
         >
           <SwiperSlide>
-            <a href="#sobre">
+            <a href="/">
               <div
                 slot="container-start"
                 className="parallax-bg"
                 id="prlx"
                 style={{
-                  "background-image": 'url("./cigana_principal.jpg")',
-
+                  "background-image": 'url("./slide/01.jpg")',
                 }}
                 data-swiper-parallax="-23%"
               ></div>
@@ -41,44 +39,86 @@ function Header() {
                 Taro na Net
               </div>
             </a>
-
           </SwiperSlide>
 
           <SwiperSlide>
-            <a href="">
+            <a href="/magia-dos-ciganos">
               <div
                 slot="container-start"
                 className="parallax-bg"
                 style={{
-                  "background-image": 'url("./ANJOS-03.jpg")',
+                  "background-image": 'url("./slide/02.jpg")',
                 }}
                 data-swiper-parallax="-23%"
               ></div>
               <div className="title" data-swiper-parallax="-300">
-                Slide 3
+                Ciganos
               </div>
             </a>
           </SwiperSlide>
 
           <SwiperSlide>
-            <a href="">
+            <a href="/banhos-e-ervas">
               <div
                 slot="container-start"
                 className="parallax-bg"
                 style={{
-                  "background-image": 'url("./ciganos-dancing.jpg")',
+                  "background-image": 'url("./slide/04.jpg")',
                 }}
                 data-swiper-parallax="-23%"
               ></div>
               <div className="title" data-swiper-parallax="-300">
-                pegar o resto das img no projeto do clone
+                Banhos e Ervas
+              </div>
+            </a>
+          </SwiperSlide>
+          <SwiperSlide>
+            <a href="/cartomancia">
+              <div
+                slot="container-start"
+                className="parallax-bg"
+                style={{
+                  "background-image": 'url("./slide/05.jpg")',
+                }}
+                data-swiper-parallax="-23%"
+              ></div>
+              <div className="title" data-swiper-parallax="-300">
+                Cartomancia
+              </div>
+            </a>
+          </SwiperSlide>
+          <SwiperSlide>
+            <a href="/mensagem-das-velas">
+              <div
+                slot="container-start"
+                className="parallax-bg"
+                style={{
+                  "background-image": 'url("./slide/06.jpg")',
+                }}
+                data-swiper-parallax="-23%"
+              ></div>
+              <div className="title" data-swiper-parallax="-300">
+                Mensagem das Velas
+              </div>
+            </a>
+          </SwiperSlide>
+          <SwiperSlide>
+            <a href="mesa-radionica">
+              <div
+                slot="container-start"
+                className="parallax-bg"
+                style={{
+                  "background-image": 'url("./pages/mesaRadionica/01.jpg")',
+                }}
+                data-swiper-parallax="-23%"
+              ></div>
+              <div className="title" data-swiper-parallax="-300">
+                Mesa Radionica
               </div>
             </a>
           </SwiperSlide>
         </Swiper>
       </header>
-
-
     </>
   );
 }
