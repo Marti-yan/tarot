@@ -473,22 +473,573 @@ const Baralho = () => {
               “amigo-urso”. Sentimentos ruins como inveja, a cobiça podem
               interferir nas energias do seu campo astral.
             </p>
-            <p>Esta é uma carta polêmica, pois alguns livros dizem que é a pior carta do baralho. Porém, ela tem vários significados.Carta de alerta: Cuidado com algum rival e cuidado para não entrar em depressão. O pleno desabrochar da sexualidade. É arrebatado pela paixão.</p>
+            <p>
+              Esta é uma carta polêmica, pois alguns livros dizem que é a pior
+              carta do baralho. Porém, ela tem vários significados.Carta de
+              alerta: Cuidado com algum rival e cuidado para não entrar em
+              depressão. O pleno desabrochar da sexualidade. É arrebatado pela
+              paixão.
+            </p>
           </span>
           <br />
           <span>
             <p>
-              <b></b>
+              <b>16 – AS ESTRELAS – SEIS DE COPAS</b>
             </p>
             <p>
-              <b></b>
+              <b>SIMBOLOGIA - </b>Esta grande estrela cintilante é o símbolo de
+              sua força espiritual e da sua intuição, energias que devem vir à
+              tona nos momentos difíceis de sua jornada.
             </p>
             <p>
-              <b></b>
+              <b>MENSAGEM - </b>É um sinal para que tenha fé em suas intuições.
+              Quando o arcano As nuvens estiver por perto. Ela indica
+              desequilíbrio na vida amorosa.
             </p>
-            <p></p>
+
+            <p>
+              Dizem que a estrela é a conversa entre Deus e o homem, através dos
+              anjos que nos acompanham e é a luz espiritual, pois nunca estamos
+              sozinhos e há uma mão invisível que nos aponta a melhor direção,
+              portanto devemos confiar na nossa própria intuição e na
+              providência divina, mas depende de nós querermos ou não trilhar o
+              caminho indicado.
+            </p>
+            <p>
+              Esta carta nos remete a necessidade da contemplação e a presença
+              da inspiração e criatividade na vida de uma pessoa, principalmente
+              dos artistas. Significa a Intuição (para atingirmos os nosso
+              objetivos ou sonhos) e a Proteção Espiritual que sempre nos
+              acompanha. Por isso devemos acreditar em nossa luz, em nosso
+              brilho e na própria capacidade pessoal.Começa a indagar sobre qual
+              o significado da sua existência: “De onde vim? Para onde vou?”
+            </p>
           </span>
           <br />
+          <span>
+            <p>
+              <b> 17 – A CEGONHA – DAMA DE COPAS</b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA -</b> Nesta carta, aparece uma cegonha levando um
+              galho no bico. Este arcano representa novidades, em muitos setores
+              de sua vida. MENSAGEM – Simboliza o início de um novo ciclo em sua
+              vida. Este arcano também indica que seus caminhos estão abertos a
+              novas experiências e a prósperos empreendimentos principalmente no
+              campo pessoal.
+            </p>
+
+            <p>
+              A cegonha é considerada uma ave de bom agouro, pois traz a
+              surpresa e o inesperado, pois nunca sabemos se virá um bebê ou
+              não. Se é menina ou menino, se são gêmeos ou não. Esta carta
+              representa o imprevisto, a novidade, o que chega de uma forma
+              inesperada.
+            </p>
+            <p>
+              Daí a necessidade de vivermos no agora de uma forma inteligente,
+              sem pressa ou ansiedade.Aceitação de tudo o que é novo. O homem
+              volta-se para si mesmo, analisando o que pode mudar nele e no
+              mundo.
+            </p>
+          </span>
+          <br />
+          <span>
+            <p>
+              <b> 18 – O CÃO – DEZ DE COPAS</b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA -</b> É representada por um cão em posição de
+              guarda. Esta carta simboliza a amizade leal, sincera, a força, o
+              apoio e o carinho das pessoas amigas.
+            </p>
+            <p>
+              <b>MENSAGEM -</b> Significa que pode confiar nas pessoas com quem
+              convive. É sinal para ficar alerta se a carta As nuvens estiver
+              por perto. Ela indica desequilíbrio na vida amorosa.
+            </p>
+
+            <p>
+              O cão é o melhor amigo do homem e o cavalo é o melhor amigo de um
+              cigano.
+            </p>
+            <p>
+              Seu comportamento é de fidelidade, companheirismo e lealdade. Nos
+              aceita, nos entende e nos apoia, pois inspira confiança. E, além
+              do mais, não pede nada em troca.Ao começar a atingir a maturidade,
+              o homem prefere um menor número de amigos e uma amizade de nível
+              superior.
+            </p>
+          </span>
+          <br />
+          <span>
+            <p>
+              <b>19 – A TORRE – SEIS DE ESPADAS </b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA -</b> Esta torre alta e com aspecto sóbrio
+              representa o “eu” verdadeiro. Também mostra que você passa por uma
+              fase de busca de seu autoconhecimento.
+            </p>
+            <p>
+              <b>MENSAGEM -</b> Este arcano mostra a você que as respostas que
+              tanto espera estão dentro de você mesmo(a). É só procurar as
+              soluções que deseja em seu interior.
+            </p>
+
+            <p>
+              A torre simboliza o isolamento necessário para a meditação, para a
+              oração e para o silêncio. É a necessidade de entrar em contato com
+              o Eu Interno e para promover a elevação espiritual. É o momento
+              propício para a própria observação, para o autoconhecimento, e o
+              autocontrole sobre si mesmo.
+            </p>
+            <p>
+              Esta carta representa o destino, o karma, o que é necessário (e
+              inevitável) acontecer na vida de uma pessoa. O homem fica mais
+              sério. Volta-se para o seu próprio mundo.
+            </p>
+          </span>
+          <br />
+          <span>
+            <p>
+              <b>20 – O JARDIM – OITO DE ESPADAS </b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA -</b> Esta carta é representada pela paisagem de um
+              jardim bastante fértil e pacífico, envolvido por uma aura de
+              energia.
+            </p>
+            <p>
+              <b>MENSAGEM -</b> O Jardim é um arcano que traz um conselho a
+              você; é hora de colher tudo o que plantou, pois o momento é de
+              paz. Aproveite a tranqüilidade para refletir sobre todas as suas
+              ações.
+            </p>
+
+            <p>
+              O jardim é um lugar onde plantamos e colhemos, logo exige o nosso
+              cuidado e atenção. Se não plantamos, não colhemos nada, então é o
+              retorno dos nossos esforços empregados. É o mérito e o
+              reconhecimento das nossas ações.
+            </p>
+            <p>
+              Às vezes é o nosso jardim interno que precisa ser cultivado.As
+              necessidades de convivência. O contratempo à seriedade anterior.
+            </p>
+          </span>
+          <br />
+          <span>
+            <p>
+              <b>21- A MONTANHA – OITO DE PAUS </b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA -</b> Representada por uma montanha rochosa, esta
+              carta simboliza a força, o equilíbrio, a perseverança, a justiça e
+              também é o alerta para o perigo próximo.
+            </p>
+            <p>
+              <b>MENSAGEM -</b> Se aparecer perto da carta que representa você,
+              mostra o alcance de seus objetivos. Longe, é sinal de perda do que
+              já foi conquistado em sua vida.
+            </p>
+
+            <p>
+              Esta carta representa a justiça (terrena ou divina) e todo o seu
+              universo, processos judiciais, heranças, disputas legais, leis,
+              procurações e papeladas.Começa a perceber os seus limites, que sua
+              liberdade termina onde começa a das outras pessoas. Deseja ter a
+              sua própria família.
+            </p>
+          </span>
+          <br />
+          <span>
+            <p>
+              <b> 22 – OS CAMINHOS – DAMA DE OUROS</b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA -</b> É representada pela paisagem de uma de uma
+              estrada larga, comprida e sem qualquer obstáculo. Esta carta
+              mostra que seus caminhos estão abertos e que poderá existir uma
+              saída para todos os problemas que surgirem.
+            </p>
+            <p>
+              <b>MENSAGEM -</b> Você está no rumo certo e realizará os seus
+              sonhos. Acredite mais na sua felicidade.
+            </p>
+
+            <p>
+              Esta carta significa a estrada da vida, os caminhos a serem
+              percorridos. Os caminhos sempre nos indicam caminhar na rota
+              conhecida ou nos aventurarmos por um novo atalho. É a
+              possibilidade de explorar novos territórios e descobrir coisas
+              novas. Começa a fazer uso do livre-arbítrio ao definir as suas
+              escolhas. Há a dúvida entre permanecer numa situação conhecida (a
+              família de origem) e enfrentar uma desconhecida (a família que
+              poderá ter).
+            </p>
+          </span>
+          <br />
+          <span>
+            <p>
+              <b> 23 – O RATO – SETE DE PAUS</b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA -</b> Um grande rato comendo um pedaço de queijo
+              indica que algo importante de sua vida está sendo roubado. Você
+              precisa de proteção na saúde e no setor material.
+            </p>
+            <p>
+              <b>MENSAGEM -</b> Há a possibilidade de contrair doenças sem
+              gravidade. Se a carta As Estrelas aparecer próxima a esta, é sinal
+              de que poderá recuperar o que foi roubado.
+            </p>
+
+            <p>
+              Esta carta representa o furto, o roubo, o prejuízo, a doença, a
+              perda, a miséria e o desgaste (físico, emocional, mental e
+              energético). Porém, o rato é um animal persistente que não
+              desanima e vai atrás do queijo, quando alguém muda a posição do
+              mesmo. Logo, também significa a persistência que devemos ter numa
+              situação.Toda escolha traz em si o medo de não ter feito o que era
+              melhor. Quando optamos por uma coisa, perdemos outras.
+            </p>
+          </span>
+          <br />
+          <span>
+            <p>
+              <b>24 – O CORAÇÃO – VALETE DE COPAS </b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA -</b> É representada pela figura de um grande
+              coração e simboliza o amor fraternal, a solidariedade universal, a
+              paixão forte e a felicidade que está presente neste momento de sua
+              vida.
+            </p>
+            <p>
+              <b>MENSAGEM -</b> Você viverá uma grande paixão em breve. Também
+              indica que deverá ajudar as pessoas que pedirem o seu auxílio.
+            </p>
+
+            <p>
+              O simbolismo desta carta é universal, pois representa o amor e a
+              afetividade, a compaixão e a solidariedade. Indica os sentimentos
+              nobres, o entusiasmo, o romantismo, o colorido da vida, a ternura
+              e o carinho. É aqui que reside o calor humano. Deixa o coração
+              livre para receber e dar amor.
+            </p>
+          </span>
+          <br />
+          <span>
+            <p>
+              <b>25 – A ALIANÇA – ÁS DE PAUS </b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA -</b> Este arcano traz a figura de um par de
+              alianças de ouro entrelaçadas e simboliza uma união duradoura ou
+              mesmo a possibilidade de um relacionamento amoroso firme.
+            </p>
+            <p>
+              <b>MENSAGEM -</b> Se aparecer ao lado direito da carta que
+              representa você, é sinal de casamento feliz. Do lado esquerdo,
+              indica instabilidade no relacionamento conjugal.
+            </p>
+
+            <p>
+              O anel é outro símbolo universal de união e
+              reconciliação,cooperação e apoio de pessoas que se Unem para
+              atingir objetivos que não poderiam ser alcançados de maneira
+              isolada.Representa os vínculos, os acordos, os elos e as alianças
+              que fazemos, sejam afetivas, familiares, profissionais e sociais.A
+              consolidação do Amor e da escolha por ter sua própria família.
+            </p>
+          </span>
+          <br />
+          <span>
+            <p>
+              <b> 26 – O LIVRO – DEZ DE OUROS.</b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA -</b> Traz a figura de uma pilha de livros sobre uma
+              escrivaninha. Esta carta simboliza a necessidade de aquisição de
+              conhecimento e cultura.
+            </p>
+            <p>
+              <b>MENSAGEM -</b> Os estudos ou em qualquer teste a que for
+              submetido(a) será um sucesso absoluto. Por isso, o momento é ideal
+              para se testar. Não tenha medo de colocar a sua capacidade e a sua
+              felicidade à prova.
+            </p>
+
+            <p>
+              O livro representa o esforço intelectual, logo os estudos e as
+              pesquisas; 0 trabalho ou o investimento.
+            </p>
+            <p>
+              Resumindo, esta carta simboliza o lado profissional ou estudantil
+              do consulente.A manutenção da família requer preparo (estudo) e
+              trabalho.
+            </p>
+          </span>
+          <br />
+          <span>
+            <p>
+              <b> 27 – A CARTA – SETE DE ESPADAS</b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA -</b> É representada pela figura de um envelope.
+              Indica comunicação, informação e também é um aviso para guardar
+              seus segredos.
+            </p>
+            <p>
+              <b>MENSAGEM -</b> Se este arcano vier seguido da carta Os Ventos,
+              é sinal de notícias boas. Mas se esta carta estiver perto da que
+              representa você, é sinal que as notícias poderão causar
+              sofrimento.
+            </p>
+
+            <p>
+              Uma carta sempre traz notícias, convites, propostas, um desabafo
+              ou um diálogo. A carta proporciona o contato entre as pessoas,
+              seja pessoalmente ou via telefone, sms, e-mail, facebook ou msn.
+            </p>
+            <p>
+              Também significa a comunicação, a necessidade de se expor com
+              clareza ou a divulgação de um trabalho. Logo, reflete o momento da
+              autorevelação.Não está mais sozinho. Falar e ouvir. Expressando as
+              suas idéias. Compartilhá-las em casa, no trabalho.
+            </p>
+          </span>
+          <br />
+          <span>
+            <p>
+              <b>28 – O CIGANO – ÁS DE COPAS </b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA -</b> Traz a figura de um cigano forte e bonito,
+              destemido, empunhando uma espada, que corta os males e protege a
+              pessoa que o procura. Simboliza o homem ideal e honesto para as
+              mulheres.
+            </p>
+            <p>
+              <b>MENSAGEM -</b> Este arcano é você, se quem consulta é homem.
+              Também representa a chegada de uma mulher ideal em sua vida.
+            </p>
+
+            <p>
+              Esta carta significa a polaridade yang, o lado positivo, ativo e
+              racional, representa o consulente homem ou qualquer energia
+              masculina. Pode ser o pai, o marido, o irmão, o chefe, o vizinho,
+              o amigo.A mulher encontrou o seu homem. O homem deve refletir
+              sobre as suas ações: atingiu a maturidade.
+            </p>
+          </span>
+          <br />
+          <span>
+            <p>
+              <b>29 – A CIGANA – ÁS DE ESPADAS </b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA -</b> É representada pela figura de uma cigana
+              jovem, bonita e cheia de vida. Ela olha para as cartas como quem
+              consegue desvendar o futuro. Este arcano representa a amada para
+              os homens.
+            </p>
+            <p>
+              <b>MENSAGEM -</b> Se quem consulta é uma mulher, esta carta
+              representa você e indica a chegada de um homem ideal em sua vida.
+            </p>
+
+            <p>
+              Esta carta significa a polaridade yin, o lado negativo, receptivo
+              e emocional, representa a consulente mulher ou qualquer energia
+              feminina. Pode ser a mãe, a esposa, a irmã, a chefe, a vizinha, a
+              amiga. O homem encontrou a sua mulher. A mulher atingiu a
+              maturidade e deve ponderar sobre qual é o seu papel na sociedade.
+            </p>
+          </span>
+          <br />
+          <span>
+            <p>
+              <b>30 – OS LÍRIOS – REI DE ESPADAS </b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA -</b> É a figura que significa paz interior,
+              harmonia, enfim, uma vida feliz.
+            </p>
+            <p>
+              <b>MENSAGEM -</b> Se esta carta aparecer perto do arcano que
+              representa você, é sinal que é uma pessoa honesta. Caso apareça
+              abaixo deste arcano é porque você tem caráter duvidoso. Se a carta
+              As Nuvens vier perto deste arcano, é sinal de grande sofrimento em
+              família.
+            </p>
+
+            <p>
+              Esta carta representa as virtudes como a paz interior, a
+              tranqüilidade, a serenidade, a pureza, a bondade e a harmonia.{" "}
+              <br />A verdadeira paz espiritual é uma conquista pessoal,
+              exigindo esforço, dedicação e procura.Faz-se uso dos valores
+              morais.
+            </p>
+          </span>
+          <br />
+          <span>
+            <p>
+              <b>31 – O SOL – ÁS DE OUROS </b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA -</b> A imagem da paisagem de um sol ardente
+              significa a plenitude da vida, a energia e o positivismo. Esta é
+              uma carta alto-astral.
+            </p>
+            <p>
+              <b>MENSAGEM -</b> Quando este arcano estiver perto da carta que
+              representa você, é sinal de fortuna e saúde. Se aparecer longe,
+              indica sentimentos como desânimo, fraqueza e tristeza diante dos
+              obstáculos.
+            </p>
+
+            <p>
+              O sol é a fonte da luz, do calor e da vida e seu raios representam
+              as influências celestes ou espirituais recebidas pela terra.{" "}
+              <br />
+              Significa vitalidade, força, energia vital, sucesso, clareza e
+              brilho intenso.Plenitude. O homem chegou ao auge da sua
+              inteligência. Deve aprender a usar o poder.
+            </p>
+          </span>
+          <br />
+          <span>
+            <p>
+              <b>32 – A LUA – OITO DE COPAS </b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA -</b> É representada pela figura de uma Lua
+              Crescente e tem como significado a inconstância, a dúvida, os
+              elementos ocultos.
+            </p>
+            <p>
+              <b>MENSAGEM -</b> Quando esta carta estiver ao lado direito da que
+              representa você, é sinal de que terá reconhecimento por tudo o que
+              faz. Se tiver do esquerdo, indica que passará por momentos de
+              aflição.
+            </p>
+
+            <p>
+              Esta carta significa a emoção ou a carga emocional do consulente,
+              daí a necessidade de estarmos atentos ao nosso mundo interior.{" "}
+              <br /> A lua tem 4 fases e cada fase representa um aspecto.: É
+              necessário que o mundo reconheça o seu valor. Há, contudo, a
+              necessidade de expressar os sentimentos e o reconhecimento de que
+              é necessário “negociar”
+            </p>
+          </span>
+          <br />
+          <span>
+            <p>
+              <b>33 – A CHAVE – OITO DE OUROS </b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA -</b> A figura chave que aparece neste arcano
+              representa o sucesso, é a chave que abre as portas para os dias
+              melhores que estão chegando.
+            </p>
+            <p>
+              <b>MENSAGEM -</b> Quando este arcano aparece próximo a carta que
+              indica você, é sinal de que momentos de realização o(a) aguardam.
+              Se aparecer longe, indica obstáculos e que seus caminhos poderão
+              estar fechados.
+            </p>
+
+            <p>
+              A chave sempre abre ou fecha portas, portanto é o livre arbítrio
+              do consulente, pois é ele quem vai decidir usar ou não a chave que
+              possui nas mãos.Neste ponto, deve haver equilíbrio na vida. Deve
+              ter descoberto qual é a “chave”, qual o mistério da vida.
+            </p>
+          </span>
+          <br />
+          <span>
+            <p>
+              <b> 34 – OS PEIXES – REI DE OUROS</b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA -</b> Peixes nadando próximos a uma arca cheia de
+              tesouros simbolizam bens materiais, negócios e também é sinal de
+              lucros que vão aparecer na sua vida.
+            </p>
+            <p>
+              <b>MENSAGEM -</b> Perto de sua carta indica sucesso e bons
+              negócios. Longe, é exatamente o contrário, indica crise financeira
+              em seus empreendimentos futuros.
+            </p>
+
+            <p>
+              Esta carta representa a vida material ou financeira do consulente.
+              Indica lucro (multiplicação) em novos empreendimentos e que o
+              empenho na atividade profissional será recompensado.Descobre que
+              os bens materiais acumulados não têm tanto valor quanto pensava.
+              Projeta-se nos filhos.
+            </p>
+          </span>
+          <br />
+          <span>
+            <p>
+              <b>35 – A ÂNCORA – NOVE DE ESPADAS </b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA -</b> Mostra uma grande âncora no fundo do mar e
+              representa segurança material e financeira.
+            </p>
+            <p>
+              <b>MENSAGEM -</b> Para os negócios, segurança e estabilidade. Para
+              o amor, depende da localização da carta: perto da que indica você,
+              é sinal de um relacionamento sólido. Longe, quer dizer que este
+              amor poderá passar por períodos de inconstância.A âncora
+              estabiliza as embarcações, dá firmeza e sustentação para que as
+              mesmas não fiquem a deriva. Portanto, significa solidez e
+              segurança.Está no momento certo de sentir-se mais equilibrado e
+              seguro do que nunca. Já viveu, conheceu e aprendeu muito. Porém
+              sente-se inseguro. Precisa de mais equilíbrio do que nunca. Está
+              velho.
+            </p>
+          </span>
+          <br />
+          <span>
+            <p>
+              <b>36 – A CRUZ – SEIS DE PAUS </b>
+            </p>
+            <p>
+              <b>SIMBOLOGIA -</b> É representada por uma grande cruz e simboliza
+              a vitória em todos os sentidos, não importando os obstáculos que
+              estejam em seu caminho. A cruz é poder.
+            </p>
+            <p>
+              <b>MENSAGEM -</b>Perto da carta que representa você, é sinal de
+              vitória e proteção em todos os setores; longe, indica que energias
+              negativas estão tentando influenciar sua vida. Na Cruz se juntam o
+              céu e a terra; nela se confundem o espaço e o tempo. É a ponte
+              entre dois mundos: o material e o espiritual.Fechou-se um ciclo. O
+              espírito vale mais do que a matéria. Volta-se para os valores
+              espirituais.
+            </p>
+          </span>
+          <br />
+          <img src="../pages/ciganos/baralho/03.jpg" alt="" />
+          <p>
+            <i>
+              <b>
+                “Acredito na verdade fundamental de todas as grandes religiões
+                do mundo. Acredito que todas elas foram inspiradas por Deus, e
+                que eram necessárias para os povos a quem foram reveladas. Se
+                pudéssemos ler as escrituras das diversas religiões com a
+                cultura dos seguidores daquelas religiões, chegaríamos à
+                conclusão que todas elas estão de acordo nos seus princípios
+                básicos e que são úteis para todos.” (Gandhi)”.
+              </b>
+            </i>
+          </p>
         </div>
       </section>
     </>

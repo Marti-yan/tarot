@@ -42,7 +42,7 @@ function Header() {
           </SwiperSlide>
 
           <SwiperSlide>
-            <a href="/magia-dos-ciganos">
+            <a href="#/magia-dos-ciganos">
               <div
                 slot="container-start"
                 className="parallax-bg"
@@ -58,7 +58,7 @@ function Header() {
           </SwiperSlide>
 
           <SwiperSlide>
-            <a href="/banhos-e-ervas">
+            <a href="#/banhos-e-ervas">
               <div
                 slot="container-start"
                 className="parallax-bg"
@@ -73,7 +73,7 @@ function Header() {
             </a>
           </SwiperSlide>
           <SwiperSlide>
-            <a href="/cartomancia">
+            <a href="#/cartomancia">
               <div
                 slot="container-start"
                 className="parallax-bg"
@@ -88,7 +88,7 @@ function Header() {
             </a>
           </SwiperSlide>
           <SwiperSlide>
-            <a href="/mensagem-das-velas">
+            <a href="#/mensagem-das-velas">
               <div
                 slot="container-start"
                 className="parallax-bg"
@@ -103,7 +103,7 @@ function Header() {
             </a>
           </SwiperSlide>
           <SwiperSlide>
-            <a href="mesa-radionica">
+            <a href="#/mesa-radionica">
               <div
                 slot="container-start"
                 className="parallax-bg"

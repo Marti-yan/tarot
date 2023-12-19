@@ -1,0 +1,11 @@
+.main img{
+
+    display: block;
+    margin: 0 auto;
+}
+@media (min-width:786px) {
+
+    .main img{
+        width: 70% !important;
+    }
+}
