@@ -1,4 +1,4 @@
-import {BrowserRouter, Route, Routes} from "react-router-dom";
+import {BrowserRouter, Route, Routes, HashRouter} from "react-router-dom";
 import Home from "./pages/home";
 import Numerologia from "./pages/numerologia";
 import BanhosErvas from "./pages/banhosErvas";
@@ -19,7 +19,7 @@ function AppRoutes(){
     return (
 
 
-        <BrowserRouter>
+        <HashRouter>
             <Routes>
                 <Route path="/" element={ <Home />}> </Route>
 
@@ -36,7 +36,7 @@ function AppRoutes(){
                 <Route path="/numerologia" element={ <Numerologia />}> </Route>
                 <Route path="/tarot-dos-anjos" element={ <TarotAnjos />}> </Route>
             </Routes>
-        </BrowserRouter>
+        </HashRouter>
     );
 }
 export default AppRoutes;

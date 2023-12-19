@@ -39,31 +39,31 @@ const Nav = () => {
           {isOpen && (
             <ul>
               <li>
-                <a href="/Magia-dos-ciganos">As magias e a Historia dos Ciganos</a>
+                <a href="#/Magia-dos-ciganos">As magias e a Historia dos Ciganos</a>
               </li>
 
               <li>
-                <a href="/Banhos-e-ervas">Banhos e Ervas Especiais</a>
+                <a href="#/Banhos-e-ervas">Banhos e Ervas Especiais</a>
               </li>
 
               <li>
-                <a href="/Cartomancia">Cartomancia</a>
+                <a href="#/Cartomancia">Cartomancia</a>
               </li>
 
               <li>
-                <a href="/Mensagem-das-velas">Mensagem das Velas</a>
+                <a href="#/Mensagem-das-velas">Mensagem das Velas</a>
               </li>
 
               <li>
-                <a href="/Mesa-radionica">Mesa Radiônica e Radiestesia</a>
+                <a href="#/Mesa-radionica">Mesa Radiônica e Radiestesia</a>
               </li>
 
               <li>
-                <a href="/Numerologia">Numerologia</a>
+                <a href="#/Numerologia">Numerologia</a>
               </li>
 
               <li>
-                <a href="/Tarot-dos-anjos">Tarot dos Anjos</a>
+                <a href="#/Tarot-dos-anjos">Tarot dos Anjos</a>
               </li>
             </ul>
           )}
