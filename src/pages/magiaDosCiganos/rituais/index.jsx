@@ -298,6 +298,7 @@ const Rituais = () => {
         <img src="../pages/ciganos/rituais/09.jpg" alt="" /><br />
         <img src="../pages/ciganos/rituais/10.jpg" alt="" />
         </div>
+        
       </section>
     </>
   );

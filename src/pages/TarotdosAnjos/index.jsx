@@ -7,7 +7,7 @@ const TarotAnjos = () => {
       <section>
         <div>
           <span>
-            <img src="./pages/tarotdosanjos/01.jpg" alt="" />
+            <img src="./pages/tarotdosanjos/01.jpg" className={style.imglarge} alt="" />
             <p>Ritual para a ancoragem dos anjos cabalísticos</p>
             <p>
               O seguinte ritual, ensinado por Monica Buonfiglio no livro “A
@@ -78,7 +78,7 @@ const TarotAnjos = () => {
         </div>
         <div>
           <span>
-            <img src="./pages/tarotdosanjos/04.jpg" alt="" />
+            <img src="./pages/tarotdosanjos/04.jpg" className={style.imglarge}  alt="" />
             <h4>
               AO ACENDER UMA VELA,É POSSÍVEL IDENTIFICAR ALGUMAS MENSAGENS:
             </h4>
