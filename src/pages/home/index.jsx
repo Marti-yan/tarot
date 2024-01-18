@@ -1,6 +1,6 @@
 import Pagamento from "../../components/pagamento";
 import style from "../home/home.module.css";
-import styles from "./../global.css";
+// import styles from "../global.css";
 
 function Home() {
   return (

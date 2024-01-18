@@ -76,7 +76,7 @@ const Nav = () => {
 
         <li>
           <a
-            href=" https://wa.me//5522992064929?text=Gostaria%20de%20mais%20informações%20sobre%20as%20consultas!"
+            href=" https://wa.me//554891161249?text=Gostaria%20de%20mais%20informações%20sobre%20as%20consultas!"
             id="cta"
             className="hvr-icon-forward hvr-sweep-to-left"
           >
