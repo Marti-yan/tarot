@@ -1,21 +1,19 @@
+import Pagamento from "../../components/pagamento";
 import style from "../home/home.module.css";
 // import styles from "../global.css";
 
 function Home() {
   return (
     <>
-    <h1>Taro na Net</h1>
+      <h1>Taro na Net</h1>
       <section className={style.textSection}>
-
-       
-          "Ao fazer seu jogo, não desejo determinar o seu futuro, E sim ajudar
-          em sua melhor escolha para seu dia de amanhã. Desejo que seu caminho
-          seja brando aos teus pés, Que o sol brilhe cálido sobre tua face, e
-          que as chuvas. Caiam severas em teus campos, E que DEUS te guarde nas
-          palmas de suas mãos! "
-       
+        "Ao fazer seu jogo, não desejo determinar o seu futuro, E sim ajudar em
+        sua melhor escolha para seu dia de amanhã. Desejo que seu caminho seja
+        brando aos teus pés, Que o sol brilhe cálido sobre tua face, e que as
+        chuvas. Caiam severas em teus campos, E que DEUS te guarde nas palmas de
+        suas mãos! "
       </section>
-<br />
+      <br />
       <section>
         {" "}
         {/*options*/}
@@ -30,12 +28,11 @@ function Home() {
           dos Anjos Taro do Amor Cartomancia Taro dos Negócios Numerologia
           através do Taro Mesa Radiônica Quântica e Radiestesia
         </span>
-        <br /><br />
+        <br />
+        <br />
         <div>
-          <h5>
-          Experiências:
-          </h5>
-            
+          <h5>Experiências:</h5>
+
           <ol>
             <li>
               <h4>Baralho cigano:</h4>
@@ -147,8 +144,9 @@ function Home() {
             </li>
           </ol>
         </div>
-      </section>
 
+        <Pagamento />
+      </section>
     </>
   );
 }

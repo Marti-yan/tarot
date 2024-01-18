@@ -5,3 +5,8 @@
     text-shadow: 0 0 0 #fff;
     padding: 5px;
 }
+@media (max-width: 460px){
+    img.imglarge{
+        width:100%;
+    }
+}
